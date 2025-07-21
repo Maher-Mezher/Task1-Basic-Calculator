@@ -1,0 +1,1 @@
+This C++ program is a command-line scientific calculator that provides various mathematical operations through a text-based interface. It starts by displaying a menu of available functions, including basic arithmetic (addition, subtraction, multiplication, division), trigonometric operations (sin, cos, tan), logarithmic functions, powers, square roots, and modulo.
